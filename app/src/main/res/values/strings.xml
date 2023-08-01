@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginA</string>
+    <string name="Btn_Signup">Crear Usuario</string>
+    <string name="Btn_SignIn">Iniciar Sesión</string>
+    <string name="tv_User">Usuario:</string>
+    <string name="tv_Password">Contraseña:</string>
+</resources>
